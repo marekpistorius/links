@@ -35,6 +35,14 @@ links:
     Username: monkey_maniu
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
+    
+    # THREADS.NET
+  - Name: Threads
+    URL: https://threads.net/
+    Username: monkey_maniu
+    Color: '#f1c40f'
+    Icon-Class: fa-solid fa-at
+    Text_Color: '#ffffff'  
 
     # CLUBHOUSE
   - Name: Clubhouse
