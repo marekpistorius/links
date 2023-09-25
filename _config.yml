@@ -46,8 +46,8 @@ links:
 
     # CLUBHOUSE
   - Name: Clubhouse
-    URL: '@monkey_maniu'
-    Username: 
+    URL: https://clubhouse.com
+    Username: '@monkey_maniu'
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
     
@@ -97,8 +97,8 @@ links:
 
     # MESSENGER
   - Name: Messenger
-    URL: '@maniumonkey'
-    Username: 
+    URL: https://facebook.com
+    Username: '@maniumonkey'
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
