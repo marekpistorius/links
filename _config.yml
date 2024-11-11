@@ -31,8 +31,8 @@ links:
 
     # TWITTER
   - Name: Twitter
-    URL: https://twitter.com
-    Username: monkey_maniu
+    URL: 
+    Username: 
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
     
