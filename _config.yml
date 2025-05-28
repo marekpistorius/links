@@ -53,8 +53,8 @@ links:
     
     # LINKEDIN
   - Name: MeWe
-    URL: https://mewe.com/i
-    Username: monkey_maniu
+    URL: https://mewe.com/
+    Username: monkey_maniu.82
     Color: '#2867B2'
     Icon-Class: fab fa-facebook
 
