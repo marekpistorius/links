@@ -258,7 +258,8 @@ footer: 'No'
 compress_html:
   clippings: all
 
-include: [ "/.well-known/" ]
+include: 
+       - /.well-known/
 # Exclude
 exclude:
   - .sass-cache/
