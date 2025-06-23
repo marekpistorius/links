@@ -260,6 +260,9 @@ compress_html:
 
 include: 
        - .well-known/
+
+keep_files:
+       - .well-known/    
 # Exclude
 exclude:
   - .sass-cache/
