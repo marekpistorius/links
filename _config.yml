@@ -89,8 +89,8 @@ links:
 
     # VIMEO
   - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: monkey2maniu
+    URL: 
+    Username: 
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
@@ -282,3 +282,4 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
