@@ -262,7 +262,8 @@ include:
        - .well-known/
 
 keep_files:
-       - .well-known/    
+       - .well-known/
+       - .well-known/discord
 # Exclude
 exclude:
   - .sass-cache/
@@ -282,4 +283,5 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
