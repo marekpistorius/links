@@ -276,12 +276,14 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - Icon
+  - .well-known/
 
 # Base URL
 # baseurl: /links
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
 
