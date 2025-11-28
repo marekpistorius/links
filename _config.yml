@@ -258,8 +258,7 @@ footer: 'No'
 compress_html:
   clippings: all
 
-include: 
-       - .well-known/
+include: [ "/.well-known" ]
 
 keep_files:
        - .well-known/
@@ -283,5 +282,6 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
 
 
